@@ -1,8 +1,11 @@
-Programa
---------
+﻿Programa de Git e Bithub
+------------------------
 
 - Introdução
 - Instalação do GIT
 - Criar conta no github
+- Criar repositório git
+- Adicionar ficheiros ao stage
+- Commit de alterações
 - Sicronizar repositório remoto
 - Sincronizar com repositório local
