@@ -1,7 +1,8 @@
 Programa
 --------
 
-- IntroduÁ„o
-- InstalaÁ„o do GIT
+- Introdu√ß√£o
+- Instala√ß√£o do GIT
 - Criar conta no github
-- Sicronizar repositÛrio
+- Sicronizar reposit√≥rio remoto
+- Sincronizar com reposit√≥rio local
