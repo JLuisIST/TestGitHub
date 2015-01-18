@@ -1,1 +1,7 @@
-teste de edição de um ficheiro no github...
+Programa
+--------
+
+- Introdução
+- Instalação do GIT
+- Criar conta no github
+- Sicronizar repositório
