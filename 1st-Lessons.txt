@@ -1,0 +1,5 @@
+O programa da nossa 1ª lição é:
+
+- Introdução ao git
+- Registo de uma conta no github
+- Commit para o github
